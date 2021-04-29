@@ -1,0 +1,117 @@
+body{
+    background-color:#999;
+    font-size: 18px;
+    font-family: "century gothic";
+
+}
+.trend{
+    color: white;
+    padding: 10px;
+    text-transform: capitalize;
+    border-bottom: 1px solid black;
+}
+a{
+    color: white;
+    padding: 189px 2;
+    padding-left: 5%;
+    padding-right:5%;
+    display: inline-block;
+    text-decoration: none;
+    background-color: #999;
+    border:1px solid #999;
+    margin:5px;
+    border-radius: 4px;
+    font-size: 15px;
+}
+.box{
+    background: #171717;
+    border-radius: 4px;
+}
+body{
+    background-color:black;
+    font-size: 15px;
+    font-family: "century gothic";
+}
+.special{
+    color: white;
+    padding: 10px;
+    border-bottom: 1px solid grey;
+    font-size: 15px;
+}
+.mt{
+     margin-top:10px ;
+     margin-left: 2px;
+}
+.loreum{
+    color:yellow;
+    padding: 5px;
+    border-bottom: 1px solid #999;
+}
+.post-item
+{
+    color: yellow;
+    border-bottom: 1px solid #999;
+    
+}
+.post-item{
+    border-bottom: 1px solid #999;
+}
+.post-item{
+    border-bottom: 1px solid  #999;
+}
+.post-item{
+    border-bottom: 1px solid #999;
+}
+.post-item{
+    border-bottom: 1px solid #999;
+}
+.post-item{
+    border-bottom: 1px solid #999;
+}
+.post-item{
+    border-bottom: 1px solid #999;
+    padding-bottom: 0pt;
+}
+.amet{
+    color:white;
+    padding: 10px;
+    text-align: left;
+    border: 1px solid white;
+    border-radius: 4px;
+    
+}
+.doller{
+    color: white;
+    margin-right: 2px;
+}
+.post-item1{
+    color: white;
+}
+.post-item2{
+    color: white;
+}
+.post-item3{
+    color: white;
+}
+.ipsum{
+    color: white;
+    border: 1px solid white;
+    padding-left:5%;
+    padding-right:5%;
+    line-height: 75%;
+}
+body{
+    color: white;
+    padding: 10px;
+
+}
+.wrapper{
+    color: black;
+}
+.special2{
+    border-bottom: 1px solid grey;
+}
+.idea{
+    color: yellow;
+    font-size: 20px;
+}

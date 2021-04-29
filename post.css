@@ -1,0 +1,58 @@
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 0fr 1fr;
+    background-color :black;
+    padding: 10px;
+    border:1px solid white;
+    border-radius: 4px;
+}
+.grid-item1 {
+    border: 1px solid transparent;
+    padding: 20px;
+    font-size: 16px;
+    text-align : left;
+}
+.img-round {
+    border-radius: 50%;
+}
+
+.img-icon {
+    width: 40px;
+}
+.arrow-up {
+    width: 0; 
+    height: 0; 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    
+    border-bottom:15px solid grey;
+  }
+  .post{
+      color:greenyellow;
+      text-align: center;
+  }
+  .arrow-down {
+    width: 0; 
+    height: 0; 
+    border-left: 20px solid transparent;
+    border-right: 20px solid transparent;
+    
+    border-top: 15px solid grey;
+  }
+  .image{
+      border-radius: 100px;
+  }
+  .comment-map{
+      display: flex;
+  }
+  .ml{
+      margin-left: 10px;
+  }
+.action-functions{
+    display:flex;   
+} 
+.action-desp{
+    color:grey
+}
+
+  

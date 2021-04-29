@@ -1,0 +1,47 @@
+.grid-container {
+        display: grid;
+        grid-template-columns: 1fr 2fr 1fr;
+        background-color :black;
+        padding: 10px;
+    }
+    
+    .grid-item {
+        border: 1px solid rgba(0, 0, 0, 0.8);
+        padding: 20px;
+        font-size: 30px;
+        text-align: center;
+    }
+    .grid-container4 {
+        display: grid;
+        grid-template-columns: 0fr 1fr ;
+        background-color :black;
+        padding: 10px;
+        border: 1px solid white;
+        border-radius: 4px;
+    }
+    .post-col-grid {
+        border: 1px solid transparent;
+        padding: 20px;
+        font-size: 16px;
+        text-align:left; 
+        border-bottom: 1px solid grey;
+        
+    }
+    .c3-img-right{
+        float: right;
+        width: 100px;
+        }
+    .like-button{
+        float: right;
+        color:white
+    }
+    .img-col{
+        float: right; 
+        color: yellow;
+    }
+    .like{
+        float: right;
+    }
+        
+    
+   
