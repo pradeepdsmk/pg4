@@ -2,14 +2,14 @@
     display: grid;
     grid-template-columns: 0fr 1fr;
     background-color :black;
-    padding: 10px;
+    padding: 17px;
     border:1px solid white;
     border-radius: 4px;
 }
 .grid-item1 {
     border: 1px solid transparent;
-    padding: 20px;
-    font-size: 16px;
+    padding: 2px;
+    font-size: 12px;
     text-align : left;
 }
 .img-round {
@@ -54,5 +54,30 @@
 .action-desp{
     color:grey
 }
+.web {
+    font-size: 9px;
+    padding: 5px;
+    float: left;
+}
+.map{
+    float:left;
+}
+.tag{
+    color: grey;
+}
+.box-top-posts{
+    border: 1px solid grey;
+    border-bottom: 1px solid#333;
+}
+.grid-col{
+    border: 0px;
+    
+}
+.desp{
+    border: 1px solid grey;
+    background: black;
+}
+
+
 
   
